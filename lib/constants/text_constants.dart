@@ -8,8 +8,8 @@ class TextConstants {
   static const rihanna = 'badgalriri';
   static const mstturkkalesi = 'mstturkkalesi';
   static const eceersunar = 'eceersunar';
-  static const ecembostancioglu = 'ecembostancioglu';
-  static const ecembostancioglu1 = 'Ecem Bostancıoğlu';
+  static const ecembostancioglu = 'mohammadrezafekri';
+  static const ecembostancioglu1 = 'Mohammad Reza Fekri';
   static const yosoymert = 'yosoymert';
   static const yagizdo = 'yagizdo';
   static const jacobelordi = 'jacobelordi';
